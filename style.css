@@ -1,0 +1,114 @@
+h1{
+    color: red;
+    text-align: center;
+    font-family: inherit;
+
+}
+
+p1{
+    height:auto;
+    width: 70px;
+    color: lightcoral;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.sidenav{
+    height:auto;
+    width: 160px;
+    position:fixed;
+    z-index: 1;
+    top:1;
+    left:0;
+    background-color: antiquewhite;
+    overflow-x: hidden;
+    padding-top:20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: center;
+}
+
+img{
+    padding-top:40px;
+}
+
+
+h2{
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+    font-family: inherit;
+}
+
+h3{
+    padding-left: 300px;
+    padding-top: 40px;
+    font-family:sans-serif;
+    font-weight:bolder;
+    word-spacing: 100px;
+}
+
+
+
+h4{
+    font-size: 19px;
+    padding-left: 300px;
+    padding-top: 40px;
+    font-family:sans-serif;
+    font-weight:bolder;
+    word-spacing: 100px;
+}
+
+
+
+
+body{
+    background-color: lavenderblush;
+    
+}
+
+a{
+    color: red;
+    
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    max-width: 100%
+        
+}
+
+
+div{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+
+p2{
+    color: royalblue;
+    text-align: center;
+
+}
+
+h5{
+    font-size:30px;
+    color: mediumvioletred;
+    text-align: center;
+    padding-left:275px;
+    
+}
+
+header, footer{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    padding: 1px;
+    
+}
