@@ -1,69 +1,52 @@
 h1{
-    color: darkred;
+    color: red;
     text-align: center;
     font-family: inherit;
-    padding-top: 15px;
 
 }
 
-pre{
+p1{
     height:auto;
     width: 70px;
-    color: darkred;;
-    text-align: left;
-    padding-left: 30px;
-    line-height: 30px;
+    color: lightcoral;
+    text-align: center;
     font-family: sans-serif;
-    font-size: 21px;
-}
-
-p2{
-    font-size:18px;
-    color: darkred;
-    font-family: inherit;
-    padding-right: 30px;
 }
 
 .sidenav{
-    width: 431px;
+    height:auto;
+    width: 160px;
     position:fixed;
     z-index: 1;
-    top: 1;
-    left: 45px;
+    top:1;
+    left:0;
     background-color: antiquewhite;
     overflow-x: hidden;
-}
-
-.sidenav2{
-    height: auto;
-    width: 1020px;
-    position:fixed;
-    z-index: 1;
-    top: 1;
-    left: 520px;
-    background-color: antiquewhite;
-    overflow-x: hidden;
+    padding-top:20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: center;
 }
 
 img{
-    width: 100%;
+    padding-top:40px;
 }
 
 
 h2{
     font-size: 30px;
     color: darkred;
-    text-align-last: left;
-    padding-left: 30px;
+    text-align: center;
     font-family: inherit;
 }
 
 h3{
-    padding-top: 30px;
-    padding-left: 60px;
+    padding-left: 300px;
+    padding-top: 40px;
     font-family:sans-serif;
     font-weight:bolder;
-    padding-bottom: 30px;
+    word-spacing: 100px;
 }
 
 
@@ -76,6 +59,8 @@ h4{
     font-weight:bolder;
     word-spacing: 100px;
 }
+
+
 
 
 body{
@@ -104,6 +89,13 @@ div{
     margin-left: auto;
     margin-right: auto;
     margin-top: 25px;
+}
+
+
+p2{
+    color: royalblue;
+    text-align: center;
+
 }
 
 h5{
